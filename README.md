@@ -19,12 +19,6 @@ The dataset used is the **Retail Price Optimization** dataset from Kaggle. It in
 
 We use **XGBoost Regressor** for predicting the optimal price based on the given features. The model is trained on standardized data using `StandardScaler`.
 
-### Evaluation Metrics
-
-- **MAE:** 21.97  
-- **MSE:** 1668.33  
-- **RMSE:** 40.85  
-- **R² Score:** 0.9977
 
 These results indicate high prediction accuracy and generalization of the model.
 
